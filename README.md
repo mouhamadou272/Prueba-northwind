@@ -1,1 +1,1 @@
-# Prueba-northwind
+# Proyecto Northwind PostgreSQL - Modificado
